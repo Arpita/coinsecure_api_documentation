@@ -1,18 +1,15 @@
 {
   "name": "coinsecure_api_documentation",
-  "version": "beta",
+  "version": "1.0.0",
   "description": "To_generate_an_API_key_please_visit_a_hrefhttpscoinsecure_inapi_target_new_classhomeapihttpscoinsecure_inapia_brGuidelines_for_use_can_be_accessed_at_a_hrefhttpsapi_coinsecure_inv1guidelineshttpsapi_coinsecure_inv1guidelinesa_brProgramming_Language_Libraries_for_use_can_be_accessed_at_a_hrefhttpsapi_coinsecure_inv1code_librarieshttpsapi_coinsecure_inv1code_librariesa_",
-  "license": "Apache-2.0",
   "main": "src/index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --recursive"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "https://github.com/Arpita/coinsecure_api_documentation.git",
+  "author": "",
+  "license": "Apache-2.0",
   "dependencies": {
     "superagent": "1.7.1"
-  },
-  "devDependencies": {
-    "mocha": "~2.3.4",
-    "sinon": "1.17.3",
-    "expect.js": "~0.3.1"
   }
 }
